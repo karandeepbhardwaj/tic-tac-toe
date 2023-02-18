@@ -6,4 +6,3 @@ import { Board } from "./components/Board";
 
 const root = createRoot(document.getElementById('root'));
 root.render(<Board/>);
-
